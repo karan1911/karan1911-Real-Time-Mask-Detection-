@@ -1,1 +1,3 @@
-# karan1911-Real-Time-Mask-Detection-
+•	Objective: - To develop a real-time face mask detection system using TensorFlow/Keras and OpenCV accurately identifying mask-wearing status to promote public health and safety measures.
+•	Task & Algorithm: -Train a convolutional neural network (CNN) model to classify faces as either wearing a mask or not. Implement a user-friendly interface to provide real-time feedback on mask-wearing status, utilizing webcam inputs for live video stream detection. 
+•	Result: - Achieved an accuracy of 97%, with a precision of 99% for "Without Mask" and 95% for "With Mask," and a recall of 95% and 99%, respectively. The model demonstrated a strong overall performance with an F1-score of 97%, effectively distinguishing between images with and without masks.
